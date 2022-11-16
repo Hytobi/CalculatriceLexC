@@ -1,0 +1,3 @@
+Mini projet calculatrice
+
+Auteur : Patrice Plouvin 20170363
